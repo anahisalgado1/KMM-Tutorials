@@ -3,6 +3,19 @@ This is a Collection of Experimental Projects using Kotlin and Compose Multiplat
 
 You will find the following:
 
+## [We made a Wiki :)](https://github.com/anahisalgado1/KMM-Tutorials/wiki/Home/)
+We create a wiki documentation registering all our knowledge while we are learning KMM.
+You can learn about:
+
+- Get Start with Kotlin Multiplatform
+- MVI Architecture
+- Coroutines
+- Dagger Hilt
+- SQLDelight
+- Jetpack Compose
+- Compose Multiplatform
+- [Wiki Link](https://github.com/anahisalgado1/KMM-Tutorials/wiki/Home/)
+
 ## Projects
 ### Notes
 ### Recipes
@@ -21,14 +34,3 @@ You will find the following:
 #### iOS
 <img width="200" src="https://github.com/anahisalgado1/KMM-Tutorials/blob/main/images/Recipe_IOS_2.png"><img width="200" src="https://github.com/anahisalgado1/KMM-Tutorials/blob/main/images/Recipe_IOS_3.png"><img width="200" src="https://github.com/anahisalgado1/KMM-Tutorials/blob/main/images/Recipe_IOS_4.png">
 
-## [We made a Wiki :)](https://github.com/anahisalgado1/KMM-Tutorials/wiki/Home/)
-We create a wiki documentation registering all our knowledge while we are learning KMM.
-You can learn about:
-
-- Kotlin Multiplatform get start
-- MVI Architecture
-- Coroutines
-- Dagger Hilt
-- SQLDelight
-- Jetpack Compose
-- Compose Multiplatform
