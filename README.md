@@ -7,14 +7,14 @@ You will find the following:
 ### [- Notes](https://github.com/alexis-tamher-globant/clean-notes/tree/889be2619657b14ec7033c5d65c9419e30567ec6)
 ### - Recipes
 
-### [Notes](https://github.com/alexis-tamher-globant/clean-notes/tree/889be2619657b14ec7033c5d65c9419e30567ec6)
+## [Notes Project](https://github.com/alexis-tamher-globant/clean-notes/tree/889be2619657b14ec7033c5d65c9419e30567ec6)
 #### Android
 <img width="200" src="https://github.com/anahisalgado1/KMM-Tutorials/blob/main/images/Note_Android_1.png"><img width="200" src="https://github.com/anahisalgado1/KMM-Tutorials/blob/main/images/Note_Android_2.png"><img width="200" src="https://github.com/anahisalgado1/KMM-Tutorials/blob/main/images/Note_Android_4.png">
 
 #### iOS
 <img width="200" src="https://github.com/anahisalgado1/KMM-Tutorials/blob/main/images/NoteIOS_1.png"><img width="200" src="https://github.com/anahisalgado1/KMM-Tutorials/blob/main/images/NoteIOS_3.png"><img width="200" src="https://github.com/anahisalgado1/KMM-Tutorials/blob/main/images/NoteIOS_2.png">
 
-### Recipes
+## Recipes Project
 ### Android
 <img width="200" src="https://github.com/anahisalgado1/KMM-Tutorials/blob/main/images/Recipe_Android_2.png"><img width="200" src="https://github.com/anahisalgado1/KMM-Tutorials/blob/main/images/Recipe_Android_3.png"><img width="200" src="https://github.com/anahisalgado1/KMM-Tutorials/blob/main/images/Recipe_Android_4.png">
 
