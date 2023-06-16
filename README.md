@@ -4,8 +4,8 @@ This is a Collection of Experimental Projects using Kotlin and Compose Multiplat
 You will find the following:
 
 ## Projects
-### [Notes Code](https://github.com/alexis-tamher-globant/clean-notes/tree/889be2619657b14ec7033c5d65c9419e30567ec6)
-### Recipes Code
+### Notes
+### Recipes
 
 ## [Notes Project](https://github.com/alexis-tamher-globant/clean-notes/tree/889be2619657b14ec7033c5d65c9419e30567ec6)
 #### Android
