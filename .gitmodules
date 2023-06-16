@@ -1,3 +1,6 @@
 [submodule "CleanNotes"]
 	path = CleanNotes
 	url = https://github.com/alexis-tamher-globant/clean-notes.git
+[submodule "Recipe"]
+	path = Recipe
+	url = https://github.com/JoseAndresRH/Recipe.git
