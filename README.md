@@ -17,8 +17,8 @@ You can learn about:
 - [Wiki Link](https://github.com/anahisalgado1/KMM-Tutorials/wiki/Home/)
 
 ## Projects
-### Notes
-### Recipes
+- ### Notes
+- ### Recipes
 
 ## [Notes Project Code](https://github.com/alexis-tamher-globant/clean-notes/tree/889be2619657b14ec7033c5d65c9419e30567ec6)
 #### Android
